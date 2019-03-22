@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf047289d41a94700b7e9917103389ce
+timeCreated: 1545409058
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Famirids
+  fontNames:
+  - Famirids
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
